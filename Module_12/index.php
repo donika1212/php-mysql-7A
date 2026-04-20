@@ -1,0 +1,10 @@
+<?php include 'includes/header.php'; ?>
+
+<div class="container mt-5">
+    <h1>Welcome to CRUD App</h1>
+    <a href="pages/login.php" class="btn btn-primary">Login</a>
+    <a href="pages/signup.php" class="btn btn-primary">Signup</a>
+
+</div>
+
+<?php include 'includes/footer.php'; ?>
